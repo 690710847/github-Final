@@ -1,2 +1,5 @@
-# github-Final
-Final lab exam
+# My Profile
+## About Me
+- Nickname : Pinky
+- Major : Computer Science
+- Year : 1
